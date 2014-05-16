@@ -13,6 +13,7 @@ SUBDIRS =   \
 			mutsem \
 			tab \
 			amdahl \
+			readdir \
 			calloc \
 			file \
 			fork \
@@ -20,5 +21,6 @@ SUBDIRS =   \
 			pipe \
 			shm \
 			thread \
-			types
+			types \
+			writev
 			
